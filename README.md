@@ -1,2 +1,1 @@
-Learner Management System 
-Created LMS using OOPs, to explore in depth concepts of Inheritance, Polymorphism, Abstraction, Encapsulation, Compositions and Constructors.
+The Learner Management System (LMS) is a Java-based application designed to provide an interactive platform for managing students, courses, and learning activities. This project focuses on exploring and demonstrating core Object-Oriented Programming (OOP) concepts, including Inheritance, Polymorphism, Abstraction, Encapsulation, Composition, and Constructors.
